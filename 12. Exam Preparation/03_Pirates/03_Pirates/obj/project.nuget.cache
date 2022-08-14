@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9AQhkANIHyFKoA88d9zTdYzyUaWVLrQjGz72T+LGwCIrHCT5rPJqghJAf7nGlWi5RwU5du717rhbR9HR/LxzRw==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/03_Pirates.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

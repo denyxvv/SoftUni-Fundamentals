@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8A61747F-F090-4014-BFD5-D067FBD112FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.01__PasswordReset PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01_PasswordReset/Program.cs">
+    <Files>
+      <File FileName="01_PasswordReset/Program.cs" Line="48" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01_PasswordReset" expanded="True">
+            <Node name="01_PasswordReset" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

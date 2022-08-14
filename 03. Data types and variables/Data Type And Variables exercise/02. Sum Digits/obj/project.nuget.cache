@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEHcCn/VcYPw6eJ/WfNNme2ssSm2YdINhhZ8z23wsCYHcIzFDti54jfKVnKYqoqndx5bwZjbXOOwgK8PsdAYUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rare\\source\\repos\\Data Type And Variables exercise\\02. Sum Digits\\02. Sum Digits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rare\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

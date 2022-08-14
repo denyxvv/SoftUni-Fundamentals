@@ -1,0 +1,5 @@
+C:\Users\rare\source\repos\Methods  - Lab\05. Orders\obj\Debug\net5.0\05. Orders.csproj.AssemblyReference.cache
+C:\Users\rare\source\repos\Methods  - Lab\05. Orders\obj\Debug\net5.0\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rare\source\repos\Methods  - Lab\05. Orders\obj\Debug\net5.0\05. Orders.AssemblyInfoInputs.cache
+C:\Users\rare\source\repos\Methods  - Lab\05. Orders\obj\Debug\net5.0\05. Orders.AssemblyInfo.cs
+C:\Users\rare\source\repos\Methods  - Lab\05. Orders\obj\Debug\net5.0\05. Orders.csproj.CoreCompileInputs.cache

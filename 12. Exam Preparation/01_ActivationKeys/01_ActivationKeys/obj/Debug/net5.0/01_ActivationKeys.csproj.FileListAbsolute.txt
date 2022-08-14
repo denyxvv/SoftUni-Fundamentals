@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/bin/Debug/net5.0/01_ActivationKeys
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/bin/Debug/net5.0/01_ActivationKeys.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/bin/Debug/net5.0/01_ActivationKeys.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/bin/Debug/net5.0/01_ActivationKeys.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/bin/Debug/net5.0/01_ActivationKeys.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/bin/Debug/net5.0/01_ActivationKeys.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/obj/Debug/net5.0/01_ActivationKeys.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/obj/Debug/net5.0/01_ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/obj/Debug/net5.0/01_ActivationKeys.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/obj/Debug/net5.0/01_ActivationKeys.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/obj/Debug/net5.0/01_ActivationKeys.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/obj/Debug/net5.0/01_ActivationKeys.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/obj/Debug/net5.0/refint/01_ActivationKeys.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/obj/Debug/net5.0/01_ActivationKeys.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/obj/Debug/net5.0/01_ActivationKeys.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_ActivationKeys/01_ActivationKeys/obj/Debug/net5.0/ref/01_ActivationKeys.dll

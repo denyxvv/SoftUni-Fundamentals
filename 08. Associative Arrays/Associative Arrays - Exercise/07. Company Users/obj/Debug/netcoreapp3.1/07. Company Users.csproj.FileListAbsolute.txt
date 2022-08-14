@@ -1,0 +1,13 @@
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.exe
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.deps.json
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.runtimeconfig.json
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.runtimeconfig.dev.json
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.dll
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.pdb
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.AssemblyInfoInputs.cache
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.AssemblyInfo.cs
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.dll
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.pdb
+C:\Users\rare\source\repos\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.genruntimeconfig.cache

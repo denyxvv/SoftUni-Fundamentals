@@ -1,0 +1,14 @@
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.exe
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.deps.json
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.runtimeconfig.json
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.runtimeconfig.dev.json
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.dll
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\bin\Debug\netcoreapp3.1\01. Cooking Masterclass.pdb
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.csproj.AssemblyReference.cache
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.AssemblyInfoInputs.cache
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.AssemblyInfo.cs
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.csproj.CoreCompileInputs.cache
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.dll
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.pdb
+C:\Users\rare\source\repos\Mid Exam\01. Cooking Masterclass\obj\Debug\netcoreapp3.1\01. Cooking Masterclass.genruntimeconfig.cache

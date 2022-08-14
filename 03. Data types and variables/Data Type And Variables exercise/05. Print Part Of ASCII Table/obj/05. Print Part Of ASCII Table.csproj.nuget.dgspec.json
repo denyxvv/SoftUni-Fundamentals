@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rare\\source\\repos\\Data Type And Variables exercise\\05. Print Part Of ASCII Table\\05. Print Part Of ASCII Table.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rare\\source\\repos\\Data Type And Variables exercise\\05. Print Part Of ASCII Table\\05. Print Part Of ASCII Table.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rare\\source\\repos\\Data Type And Variables exercise\\05. Print Part Of ASCII Table\\05. Print Part Of ASCII Table.csproj",
+        "projectName": "05. Print Part Of ASCII Table",
+        "projectPath": "C:\\Users\\rare\\source\\repos\\Data Type And Variables exercise\\05. Print Part Of ASCII Table\\05. Print Part Of ASCII Table.csproj",
+        "packagesPath": "C:\\Users\\rare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rare\\source\\repos\\Data Type And Variables exercise\\05. Print Part Of ASCII Table\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

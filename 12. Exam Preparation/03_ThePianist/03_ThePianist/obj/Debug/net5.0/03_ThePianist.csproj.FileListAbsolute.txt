@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/bin/Debug/net5.0/03_ThePianist
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/bin/Debug/net5.0/03_ThePianist.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/bin/Debug/net5.0/03_ThePianist.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/bin/Debug/net5.0/03_ThePianist.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/bin/Debug/net5.0/03_ThePianist.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/bin/Debug/net5.0/03_ThePianist.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/obj/Debug/net5.0/03_ThePianist.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/obj/Debug/net5.0/03_ThePianist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/obj/Debug/net5.0/03_ThePianist.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/obj/Debug/net5.0/03_ThePianist.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/obj/Debug/net5.0/03_ThePianist.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/obj/Debug/net5.0/03_ThePianist.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/obj/Debug/net5.0/refint/03_ThePianist.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/obj/Debug/net5.0/03_ThePianist.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/obj/Debug/net5.0/03_ThePianist.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_ThePianist/03_ThePianist/obj/Debug/net5.0/ref/03_ThePianist.dll

@@ -1,0 +1,14 @@
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\bin\Debug\netcoreapp3.1\01. Decrypting Commands.exe
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\bin\Debug\netcoreapp3.1\01. Decrypting Commands.deps.json
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\bin\Debug\netcoreapp3.1\01. Decrypting Commands.runtimeconfig.json
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\bin\Debug\netcoreapp3.1\01. Decrypting Commands.runtimeconfig.dev.json
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\bin\Debug\netcoreapp3.1\01. Decrypting Commands.dll
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\bin\Debug\netcoreapp3.1\01. Decrypting Commands.pdb
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\obj\Debug\netcoreapp3.1\01. Decrypting Commands.csproj.AssemblyReference.cache
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\obj\Debug\netcoreapp3.1\01. Decrypting Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\obj\Debug\netcoreapp3.1\01. Decrypting Commands.AssemblyInfoInputs.cache
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\obj\Debug\netcoreapp3.1\01. Decrypting Commands.AssemblyInfo.cs
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\obj\Debug\netcoreapp3.1\01. Decrypting Commands.csproj.CoreCompileInputs.cache
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\obj\Debug\netcoreapp3.1\01. Decrypting Commands.dll
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\obj\Debug\netcoreapp3.1\01. Decrypting Commands.pdb
+C:\Users\rare\source\repos\Final Exam\01. Decrypting Commands\obj\Debug\netcoreapp3.1\01. Decrypting Commands.genruntimeconfig.cache

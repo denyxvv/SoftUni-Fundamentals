@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dFQ0bRefZFG6jkRTeyTBhqVllfLndW+FHUfhhZ2tUw9v4OPjAgiJpv9MP2OYK2lQWuZeKm+zZ6Z1g0OBAmo3ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rare\\source\\repos\\Data Type And Variables exercise\\05. Print Part Of ASCII Table\\05. Print Part Of ASCII Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rare\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

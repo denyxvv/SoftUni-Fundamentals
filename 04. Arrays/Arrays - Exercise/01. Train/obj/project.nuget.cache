@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y49yKGhoYDzvaePCcWwccbeRBnxfAXLxp0VLNBPrSx00DojBdxYuCsnn85IAR9n89njUE4IXoMgVvD9Prb/WdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rare\\source\\repos\\Arrays - Exercise\\01. Train\\01. Train.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rare\\.nuget\\packages\\dryioc.dll\\5.1.0\\dryioc.dll.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

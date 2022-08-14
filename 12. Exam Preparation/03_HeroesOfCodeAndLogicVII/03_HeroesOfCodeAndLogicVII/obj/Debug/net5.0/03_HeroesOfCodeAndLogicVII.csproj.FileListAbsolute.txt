@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/bin/Debug/net5.0/03_HeroesOfCodeAndLogicVII
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/bin/Debug/net5.0/03_HeroesOfCodeAndLogicVII.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/bin/Debug/net5.0/03_HeroesOfCodeAndLogicVII.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/bin/Debug/net5.0/03_HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/bin/Debug/net5.0/03_HeroesOfCodeAndLogicVII.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/bin/Debug/net5.0/03_HeroesOfCodeAndLogicVII.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/obj/Debug/net5.0/03_HeroesOfCodeAndLogicVII.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/obj/Debug/net5.0/03_HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/obj/Debug/net5.0/03_HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/obj/Debug/net5.0/03_HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/obj/Debug/net5.0/03_HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/obj/Debug/net5.0/03_HeroesOfCodeAndLogicVII.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/obj/Debug/net5.0/refint/03_HeroesOfCodeAndLogicVII.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/obj/Debug/net5.0/03_HeroesOfCodeAndLogicVII.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/obj/Debug/net5.0/03_HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_HeroesOfCodeAndLogicVII/03_HeroesOfCodeAndLogicVII/obj/Debug/net5.0/ref/03_HeroesOfCodeAndLogicVII.dll

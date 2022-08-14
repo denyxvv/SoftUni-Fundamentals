@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/REDU+loDW+6Zc1vKWFKoPQd1A1Emg+1Kd3wCx0pQfTNDc/ybhBNJn5bwnrDM/Nl9PkYynAaDgYyK+8muqAl0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rare\\source\\repos\\Data Type And Variables exercise\\04. Sum of Chars\\04. Sum of Chars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rare\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

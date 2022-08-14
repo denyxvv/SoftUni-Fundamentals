@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKz8d18rC3mA93WmlH6RoSOani6v5vvF80HrpFq2iylXOxksizDTzE4T89XAGUnggv1WzXPuVpGdu8PEr10f8w==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/03_NeedForSpeedIII.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

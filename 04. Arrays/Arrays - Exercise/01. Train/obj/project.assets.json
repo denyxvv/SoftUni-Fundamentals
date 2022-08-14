@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DryIoc.dll/5.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/DryIoc.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/DryIoc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DryIoc.dll/5.1.0": {
+      "sha512": "Ekwmvw1pASOVGadq0gG6yVijbYXyJt/NzudabtStW28HHVlJS8wJGpXG6CoaDeP9PZ+AtMrLCoNS/HJU02HlHg==",
+      "type": "package",
+      "path": "dryioc.dll/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "DryIoc.snk",
+        "LICENSE.txt",
+        "dryioc.dll.5.1.0.nupkg.sha512",
+        "dryioc.dll.nuspec",
+        "icon.png",
+        "lib/net45/DryIoc.dll",
+        "lib/net45/DryIoc.xml",
+        "lib/netstandard2.0/DryIoc.dll",
+        "lib/netstandard2.0/DryIoc.xml",
+        "lib/netstandard2.1/DryIoc.dll",
+        "lib/netstandard2.1/DryIoc.xml",
+        "readme.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DryIoc.dll >= 5.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rare\\.nuget\\packages\\": {},
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rare\\source\\repos\\Arrays - Exercise\\01. Train\\01. Train.csproj",
+      "projectName": "01. Train",
+      "projectPath": "C:\\Users\\rare\\source\\repos\\Arrays - Exercise\\01. Train\\01. Train.csproj",
+      "packagesPath": "C:\\Users\\rare\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rare\\source\\repos\\Arrays - Exercise\\01. Train\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\rare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "DryIoc.dll": {
+            "target": "Package",
+            "version": "[5.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

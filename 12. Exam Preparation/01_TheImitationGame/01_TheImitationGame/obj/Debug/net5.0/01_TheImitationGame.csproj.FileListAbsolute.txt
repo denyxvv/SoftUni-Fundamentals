@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/bin/Debug/net5.0/01_TheImitationGame
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/bin/Debug/net5.0/01_TheImitationGame.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/bin/Debug/net5.0/01_TheImitationGame.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/bin/Debug/net5.0/01_TheImitationGame.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/bin/Debug/net5.0/01_TheImitationGame.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/bin/Debug/net5.0/01_TheImitationGame.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/obj/Debug/net5.0/01_TheImitationGame.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/obj/Debug/net5.0/01_TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/obj/Debug/net5.0/01_TheImitationGame.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/obj/Debug/net5.0/01_TheImitationGame.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/obj/Debug/net5.0/01_TheImitationGame.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/obj/Debug/net5.0/01_TheImitationGame.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/obj/Debug/net5.0/refint/01_TheImitationGame.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/obj/Debug/net5.0/01_TheImitationGame.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/obj/Debug/net5.0/01_TheImitationGame.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_TheImitationGame/01_TheImitationGame/obj/Debug/net5.0/ref/01_TheImitationGame.dll

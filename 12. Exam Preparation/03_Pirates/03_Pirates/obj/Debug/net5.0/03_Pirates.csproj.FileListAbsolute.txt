@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/bin/Debug/net5.0/03_Pirates
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/bin/Debug/net5.0/03_Pirates.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/bin/Debug/net5.0/03_Pirates.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/bin/Debug/net5.0/03_Pirates.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/bin/Debug/net5.0/03_Pirates.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/bin/Debug/net5.0/03_Pirates.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/obj/Debug/net5.0/03_Pirates.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/obj/Debug/net5.0/03_Pirates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/obj/Debug/net5.0/03_Pirates.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/obj/Debug/net5.0/03_Pirates.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/obj/Debug/net5.0/03_Pirates.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/obj/Debug/net5.0/03_Pirates.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/obj/Debug/net5.0/refint/03_Pirates.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/obj/Debug/net5.0/03_Pirates.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/obj/Debug/net5.0/03_Pirates.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_Pirates/03_Pirates/obj/Debug/net5.0/ref/03_Pirates.dll

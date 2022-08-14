@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXQIa0M8MJhXiB7nBaPEgYKgyjEmVNpyz3Z6BciLDCQ8T/Uk6dYkFaxQRWqR7ir1H3wHggS5U3LqUX3CFyZdxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rare\\source\\repos\\Data Type And Variables exercise\\07. Water Overflow\\07. Water Overflow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rare\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

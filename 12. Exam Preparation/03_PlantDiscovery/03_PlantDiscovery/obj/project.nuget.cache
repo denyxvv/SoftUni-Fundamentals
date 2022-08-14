@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b6Q0so6Nm874udRxCQYf4ri07Ieq4FRvBoWIOEkK9XmdkOZnrfjn//d4/R8/idIfaKuXx3UO4kzOjdWMBV1Hog==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_PlantDiscovery/03_PlantDiscovery/03_PlantDiscovery.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

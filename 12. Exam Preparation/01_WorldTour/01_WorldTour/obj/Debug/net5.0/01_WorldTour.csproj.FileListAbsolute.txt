@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/bin/Debug/net5.0/01_WorldTour
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/bin/Debug/net5.0/01_WorldTour.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/bin/Debug/net5.0/01_WorldTour.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/bin/Debug/net5.0/01_WorldTour.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/bin/Debug/net5.0/01_WorldTour.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/bin/Debug/net5.0/01_WorldTour.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/obj/Debug/net5.0/01_WorldTour.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/obj/Debug/net5.0/01_WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/obj/Debug/net5.0/01_WorldTour.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/obj/Debug/net5.0/01_WorldTour.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/obj/Debug/net5.0/01_WorldTour.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/obj/Debug/net5.0/01_WorldTour.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/obj/Debug/net5.0/refint/01_WorldTour.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/obj/Debug/net5.0/01_WorldTour.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/obj/Debug/net5.0/01_WorldTour.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/01_WorldTour/01_WorldTour/obj/Debug/net5.0/ref/01_WorldTour.dll

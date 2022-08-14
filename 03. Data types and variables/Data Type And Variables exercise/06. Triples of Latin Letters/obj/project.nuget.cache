@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Pe/+CYYfNyb863u+TQPwMiw8kaO5+Kcs0AW1z9Sam7WSpb6czT1e80o5t51CkUrDwrfKy62+vE8Bhx66/UMXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rare\\source\\repos\\Data Type And Variables exercise\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rare\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

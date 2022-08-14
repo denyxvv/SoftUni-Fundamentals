@@ -1,0 +1,14 @@
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\obj\Debug\netcoreapp3.1\02. Message Decrypter.csproj.AssemblyReference.cache
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\obj\Debug\netcoreapp3.1\02. Message Decrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\obj\Debug\netcoreapp3.1\02. Message Decrypter.AssemblyInfoInputs.cache
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\obj\Debug\netcoreapp3.1\02. Message Decrypter.AssemblyInfo.cs
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\obj\Debug\netcoreapp3.1\02. Message Decrypter.csproj.CoreCompileInputs.cache
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\bin\Debug\netcoreapp3.1\02. Message Decrypter.exe
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\bin\Debug\netcoreapp3.1\02. Message Decrypter.deps.json
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\bin\Debug\netcoreapp3.1\02. Message Decrypter.runtimeconfig.json
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\bin\Debug\netcoreapp3.1\02. Message Decrypter.runtimeconfig.dev.json
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\bin\Debug\netcoreapp3.1\02. Message Decrypter.dll
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\bin\Debug\netcoreapp3.1\02. Message Decrypter.pdb
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\obj\Debug\netcoreapp3.1\02. Message Decrypter.dll
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\obj\Debug\netcoreapp3.1\02. Message Decrypter.pdb
+C:\Users\rare\source\repos\Final Exam\02. Message Decrypter\obj\Debug\netcoreapp3.1\02. Message Decrypter.genruntimeconfig.cache

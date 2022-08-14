@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/bin/Debug/net5.0/03_NeedForSpeedIII
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/bin/Debug/net5.0/03_NeedForSpeedIII.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/bin/Debug/net5.0/03_NeedForSpeedIII.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/bin/Debug/net5.0/03_NeedForSpeedIII.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/bin/Debug/net5.0/03_NeedForSpeedIII.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/bin/Debug/net5.0/03_NeedForSpeedIII.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/obj/Debug/net5.0/03_NeedForSpeedIII.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/obj/Debug/net5.0/03_NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/obj/Debug/net5.0/03_NeedForSpeedIII.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/obj/Debug/net5.0/03_NeedForSpeedIII.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/obj/Debug/net5.0/03_NeedForSpeedIII.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/obj/Debug/net5.0/03_NeedForSpeedIII.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/obj/Debug/net5.0/refint/03_NeedForSpeedIII.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/obj/Debug/net5.0/03_NeedForSpeedIII.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/obj/Debug/net5.0/03_NeedForSpeedIII.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/12. Exam Preparation/03_NeedForSpeedIII/03_NeedForSpeedIII/obj/Debug/net5.0/ref/03_NeedForSpeedIII.dll

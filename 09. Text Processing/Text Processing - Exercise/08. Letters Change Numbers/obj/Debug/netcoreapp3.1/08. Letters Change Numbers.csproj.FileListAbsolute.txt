@@ -1,0 +1,14 @@
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.exe
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.deps.json
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.runtimeconfig.json
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.dll
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.pdb
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.csproj.AssemblyReference.cache
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.dll
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.pdb
+C:\Users\rare\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.genruntimeconfig.cache

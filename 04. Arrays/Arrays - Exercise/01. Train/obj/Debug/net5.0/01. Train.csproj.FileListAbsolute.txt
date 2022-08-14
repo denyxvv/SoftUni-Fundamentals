@@ -1,0 +1,18 @@
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.exe
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.deps.json
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.json
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.dev.json
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.dll
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\bin\Debug\net5.0\ref\01. Train.dll
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.pdb
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfoInputs.cache
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfo.cs
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.CoreCompileInputs.cache
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.dll
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\obj\Debug\net5.0\ref\01. Train.dll
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.pdb
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.genruntimeconfig.cache
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\bin\Debug\net5.0\DryIoc.dll
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.AssemblyReference.cache
+C:\Users\rare\source\repos\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.CopyComplete
